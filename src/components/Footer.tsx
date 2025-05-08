@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
                 <Github size={18} />
                 <span className="sr-only">GitHub</span>
               </a>
-              <a href="https://linkedin.com/in/khush-patel-89b0b426a" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors duration-200">
+              <a href="https://linkedin.com/in/khush-patel-89b0b426a/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors duration-200">
                 <Linkedin size={18} />
                 <span className="sr-only">LinkedIn</span>
               </a>
